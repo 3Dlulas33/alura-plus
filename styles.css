@@ -1,4 +1,5 @@
 :root {
+    /*Luiz Eduardo Almeida Mororo*/
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
@@ -6,7 +7,7 @@
     --fonte-principal: 'Inter';
     --botao-azul-efeito: #3c92fa;
 }
-
+ /*Luiz Eduardo Almeida Mororo*/
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
@@ -21,7 +22,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -66,7 +67,7 @@ body {
 .container__caixa {
     margin: 0 6em;
 }
-
+ /*Luiz Eduardo Almeida Mororo*/
 .secundario__imagem {
     width: 80%;
 }
@@ -102,7 +103,7 @@ body {
     list-style-type: none;
     margin: 5em 0;
 }
-
+ /*Luiz Eduardo Almeida Mororo*/
 .dispositivos {
     text-align: center;
 }
@@ -116,7 +117,7 @@ body {
     font-size: 32px;
     color: var(--branco-principal);
 }
-
+ /*Luiz Eduardo Almeida Mororo*/
 .rodape {
     text-align: center;
     margin: 5em 3em;
@@ -144,7 +145,7 @@ body {
 .lista__link a:hover {
     color: var(--botao-azul);
 }
-
+ /*Luiz Eduardo Almeida Mororo*/
 .lista__link a:active {
     color: purple;
 }
